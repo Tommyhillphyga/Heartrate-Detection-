@@ -6,11 +6,11 @@ This is a Contactless heart rate detection using Eulerian magnification. This in
 
 # To Run
 Install neccessary dependencies
-'''
+```
 pip install -r requirements.txt 
-'''
+```
 
 Lunch app
-'''
+```
 streamlit run app.py 
-'''
+```
